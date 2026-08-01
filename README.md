@@ -8,4 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
