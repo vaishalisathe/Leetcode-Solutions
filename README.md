@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Array
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 ## String
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
