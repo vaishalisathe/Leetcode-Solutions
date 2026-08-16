@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
