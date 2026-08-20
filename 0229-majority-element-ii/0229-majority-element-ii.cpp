@@ -35,7 +35,7 @@ public:
             else if(nums[i]==maj2){
                 freq2++;
             }
-        }
+            }
             if(freq1>floor(n/3)){
                 ans.push_back(maj1);
             }
