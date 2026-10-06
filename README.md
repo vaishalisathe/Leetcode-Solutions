@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1903-largest-odd-number-in-string](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
 | ------- |
