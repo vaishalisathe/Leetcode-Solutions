@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
@@ -183,10 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/vaishalisathe/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Number Theory
 |  |
 | ------- |
